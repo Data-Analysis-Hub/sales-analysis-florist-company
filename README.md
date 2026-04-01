@@ -43,7 +43,7 @@ Le rapport a été construit à partir d’un fichier Excel contenant **4 feuill
 - Création d’une table de dates pour l’analyse temporelle
 - Mesures DAX créées pour calculer le CA, les croissances et les classements
 
-![Modèle de données Power BI](dashboard_fleurist_1.png)
+![Modèle de données Power BI](./screenshots/dashboard_fleurist_1.png)
 
 ## 📊 Visualisations Principales
 
