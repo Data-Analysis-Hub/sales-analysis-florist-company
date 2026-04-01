@@ -63,7 +63,7 @@ Le rapport a été construit à partir d’un fichier Excel contenant **4 feuill
 
 Le rapport utilise des **signets** pour passer facilement d’une page à l’autre.
 
-![Dashboard Analyse Détaillée](./screenshots/dashboard_fleurist_1.png)
+![Dashboard Analyse Détaillée](./screenshots/dashboard_fleurist_2.png)
 
 ## 💡 Insights Clés
 
